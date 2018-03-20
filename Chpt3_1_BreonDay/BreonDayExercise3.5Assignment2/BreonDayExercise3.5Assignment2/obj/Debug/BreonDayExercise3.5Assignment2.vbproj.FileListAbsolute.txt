@@ -1,0 +1,10 @@
+c:\users\breon\documents\visual studio 2012\Projects\BreonDayExercise3.5Assignment2\BreonDayExercise3.5Assignment2\bin\Debug\BreonDayExercise3.5Assignment2.exe.config
+c:\users\breon\documents\visual studio 2012\Projects\BreonDayExercise3.5Assignment2\BreonDayExercise3.5Assignment2\bin\Debug\BreonDayExercise3.5Assignment2.exe
+c:\users\breon\documents\visual studio 2012\Projects\BreonDayExercise3.5Assignment2\BreonDayExercise3.5Assignment2\bin\Debug\BreonDayExercise3.5Assignment2.pdb
+c:\users\breon\documents\visual studio 2012\Projects\BreonDayExercise3.5Assignment2\BreonDayExercise3.5Assignment2\bin\Debug\BreonDayExercise3.5Assignment2.xml
+c:\users\breon\documents\visual studio 2012\Projects\BreonDayExercise3.5Assignment2\BreonDayExercise3.5Assignment2\obj\Debug\BreonDayExercise3._5Assignment2.Form1.resources
+c:\users\breon\documents\visual studio 2012\Projects\BreonDayExercise3.5Assignment2\BreonDayExercise3.5Assignment2\obj\Debug\BreonDayExercise3._5Assignment2.Resources.resources
+c:\users\breon\documents\visual studio 2012\Projects\BreonDayExercise3.5Assignment2\BreonDayExercise3.5Assignment2\obj\Debug\BreonDayExercise3.5Assignment2.vbproj.GenerateResource.Cache
+c:\users\breon\documents\visual studio 2012\Projects\BreonDayExercise3.5Assignment2\BreonDayExercise3.5Assignment2\obj\Debug\BreonDayExercise3.5Assignment2.exe
+c:\users\breon\documents\visual studio 2012\Projects\BreonDayExercise3.5Assignment2\BreonDayExercise3.5Assignment2\obj\Debug\BreonDayExercise3.5Assignment2.xml
+c:\users\breon\documents\visual studio 2012\Projects\BreonDayExercise3.5Assignment2\BreonDayExercise3.5Assignment2\obj\Debug\BreonDayExercise3.5Assignment2.pdb
