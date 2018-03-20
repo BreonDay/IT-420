@@ -1,0 +1,10 @@
+c:\users\breon\documents\visual studio 2012\Projects\BreonDayHwAsmnt2\BreonDayHwAsmnt2\bin\Debug\BreonDayHwAsmnt2.exe.config
+c:\users\breon\documents\visual studio 2012\Projects\BreonDayHwAsmnt2\BreonDayHwAsmnt2\bin\Debug\BreonDayHwAsmnt2.exe
+c:\users\breon\documents\visual studio 2012\Projects\BreonDayHwAsmnt2\BreonDayHwAsmnt2\bin\Debug\BreonDayHwAsmnt2.pdb
+c:\users\breon\documents\visual studio 2012\Projects\BreonDayHwAsmnt2\BreonDayHwAsmnt2\bin\Debug\BreonDayHwAsmnt2.xml
+c:\users\breon\documents\visual studio 2012\Projects\BreonDayHwAsmnt2\BreonDayHwAsmnt2\obj\Debug\BreonDayHwAsmnt2.Hw2.resources
+c:\users\breon\documents\visual studio 2012\Projects\BreonDayHwAsmnt2\BreonDayHwAsmnt2\obj\Debug\BreonDayHwAsmnt2.Resources.resources
+c:\users\breon\documents\visual studio 2012\Projects\BreonDayHwAsmnt2\BreonDayHwAsmnt2\obj\Debug\BreonDayHwAsmnt2.vbproj.GenerateResource.Cache
+c:\users\breon\documents\visual studio 2012\Projects\BreonDayHwAsmnt2\BreonDayHwAsmnt2\obj\Debug\BreonDayHwAsmnt2.exe
+c:\users\breon\documents\visual studio 2012\Projects\BreonDayHwAsmnt2\BreonDayHwAsmnt2\obj\Debug\BreonDayHwAsmnt2.xml
+c:\users\breon\documents\visual studio 2012\Projects\BreonDayHwAsmnt2\BreonDayHwAsmnt2\obj\Debug\BreonDayHwAsmnt2.pdb
