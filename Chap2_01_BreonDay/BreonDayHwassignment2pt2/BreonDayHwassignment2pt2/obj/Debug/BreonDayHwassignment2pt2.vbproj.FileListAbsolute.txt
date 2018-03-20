@@ -1,0 +1,10 @@
+c:\users\breon\documents\visual studio 2012\Projects\BreonDayHwassignment2pt2\BreonDayHwassignment2pt2\bin\Debug\BreonDayHwassignment2pt2.exe.config
+c:\users\breon\documents\visual studio 2012\Projects\BreonDayHwassignment2pt2\BreonDayHwassignment2pt2\bin\Debug\BreonDayHwassignment2pt2.exe
+c:\users\breon\documents\visual studio 2012\Projects\BreonDayHwassignment2pt2\BreonDayHwassignment2pt2\bin\Debug\BreonDayHwassignment2pt2.pdb
+c:\users\breon\documents\visual studio 2012\Projects\BreonDayHwassignment2pt2\BreonDayHwassignment2pt2\bin\Debug\BreonDayHwassignment2pt2.xml
+c:\users\breon\documents\visual studio 2012\Projects\BreonDayHwassignment2pt2\BreonDayHwassignment2pt2\obj\Debug\BreonDayHwassignment2pt2.Hw2pt.resources
+c:\users\breon\documents\visual studio 2012\Projects\BreonDayHwassignment2pt2\BreonDayHwassignment2pt2\obj\Debug\BreonDayHwassignment2pt2.Resources.resources
+c:\users\breon\documents\visual studio 2012\Projects\BreonDayHwassignment2pt2\BreonDayHwassignment2pt2\obj\Debug\BreonDayHwassignment2pt2.vbproj.GenerateResource.Cache
+c:\users\breon\documents\visual studio 2012\Projects\BreonDayHwassignment2pt2\BreonDayHwassignment2pt2\obj\Debug\BreonDayHwassignment2pt2.exe
+c:\users\breon\documents\visual studio 2012\Projects\BreonDayHwassignment2pt2\BreonDayHwassignment2pt2\obj\Debug\BreonDayHwassignment2pt2.xml
+c:\users\breon\documents\visual studio 2012\Projects\BreonDayHwassignment2pt2\BreonDayHwassignment2pt2\obj\Debug\BreonDayHwassignment2pt2.pdb
