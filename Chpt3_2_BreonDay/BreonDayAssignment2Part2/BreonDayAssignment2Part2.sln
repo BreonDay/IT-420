@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "BreonDayAssignment2Part2", "BreonDayAssignment2Part2\BreonDayAssignment2Part2.vbproj", "{FA996BF0-3E5E-4886-8C0D-162D671D2F01}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA996BF0-3E5E-4886-8C0D-162D671D2F01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA996BF0-3E5E-4886-8C0D-162D671D2F01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA996BF0-3E5E-4886-8C0D-162D671D2F01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA996BF0-3E5E-4886-8C0D-162D671D2F01}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

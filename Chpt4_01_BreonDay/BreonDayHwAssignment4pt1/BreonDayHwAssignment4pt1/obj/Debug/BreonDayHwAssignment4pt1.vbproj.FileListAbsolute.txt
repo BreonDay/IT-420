@@ -1,0 +1,14 @@
+c:\users\breon\documents\visual studio 2012\Projects\BreonDayHwAssignment4pt1\BreonDayHwAssignment4pt1\bin\Debug\BreonDayHwAssignment4pt1.exe.config
+c:\users\breon\documents\visual studio 2012\Projects\BreonDayHwAssignment4pt1\BreonDayHwAssignment4pt1\bin\Debug\BreonDayHwAssignment4pt1.exe
+c:\users\breon\documents\visual studio 2012\Projects\BreonDayHwAssignment4pt1\BreonDayHwAssignment4pt1\bin\Debug\BreonDayHwAssignment4pt1.pdb
+c:\users\breon\documents\visual studio 2012\Projects\BreonDayHwAssignment4pt1\BreonDayHwAssignment4pt1\bin\Debug\BreonDayHwAssignment4pt1.xml
+c:\users\breon\documents\visual studio 2012\Projects\BreonDayHwAssignment4pt1\BreonDayHwAssignment4pt1\obj\Debug\BreonDayHwAssignment4pt1.EnglishToMetricConverter.resources
+c:\users\breon\documents\visual studio 2012\Projects\BreonDayHwAssignment4pt1\BreonDayHwAssignment4pt1\obj\Debug\BreonDayHwAssignment4pt1.Resources.resources
+c:\users\breon\documents\visual studio 2012\Projects\BreonDayHwAssignment4pt1\BreonDayHwAssignment4pt1\obj\Debug\BreonDayHwAssignment4pt1.vbproj.GenerateResource.Cache
+c:\users\breon\documents\visual studio 2012\Projects\BreonDayHwAssignment4pt1\BreonDayHwAssignment4pt1\obj\Debug\BreonDayHwAssignment4pt1.exe
+c:\users\breon\documents\visual studio 2012\Projects\BreonDayHwAssignment4pt1\BreonDayHwAssignment4pt1\obj\Debug\BreonDayHwAssignment4pt1.xml
+c:\users\breon\documents\visual studio 2012\Projects\BreonDayHwAssignment4pt1\BreonDayHwAssignment4pt1\obj\Debug\BreonDayHwAssignment4pt1.pdb
+C:\Users\Breon\Documents\Visual Studio 2012\Projects\Chpt4_01_BreonDay\BreonDayHwAssignment4pt1\BreonDayHwAssignment4pt1\bin\Debug\BreonDayHwAssignment4pt1.exe.config
+C:\Users\Breon\Documents\Visual Studio 2012\Projects\Chpt4_01_BreonDay\BreonDayHwAssignment4pt1\BreonDayHwAssignment4pt1\obj\Debug\BreonDayHwAssignment4pt1.exe
+C:\Users\Breon\Documents\Visual Studio 2012\Projects\Chpt4_01_BreonDay\BreonDayHwAssignment4pt1\BreonDayHwAssignment4pt1\obj\Debug\BreonDayHwAssignment4pt1.xml
+C:\Users\Breon\Documents\Visual Studio 2012\Projects\Chpt4_01_BreonDay\BreonDayHwAssignment4pt1\BreonDayHwAssignment4pt1\obj\Debug\BreonDayHwAssignment4pt1.pdb
