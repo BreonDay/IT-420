@@ -1,0 +1,5 @@
+﻿User#1,Memory size: potato,Hard Drive Size: potato,Cpu Speed: tortoise,Brand: potato
+User#2,Memory size: potato,Hard Drive Size: potato,Cpu Speed: tortoise,Brand: potato
+User#3,Memory size: sponge,Hard Drive Size: potato,Cpu Speed: tortoise,Brand: potato
+User#4,Memory size: 1000000000000gb,Hard Drive Size: 10000000000gb,Cpu Speed: rabbit,Brand: dog
+User#5,Memory size: 1000gb,Hard Drive Size: 1000gb,Cpu Speed: 240,Brand: vat

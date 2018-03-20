@@ -1,0 +1,10 @@
+C:\Users\Breon\Documents\Visual Studio 2012\Projects\BreonDayAssignment9pt2\BreonDayAssignment9pt2\bin\Debug\BreonDayAssignment9pt2.exe.config
+C:\Users\Breon\Documents\Visual Studio 2012\Projects\BreonDayAssignment9pt2\BreonDayAssignment9pt2\bin\Debug\BreonDayAssignment9pt2.exe
+C:\Users\Breon\Documents\Visual Studio 2012\Projects\BreonDayAssignment9pt2\BreonDayAssignment9pt2\bin\Debug\BreonDayAssignment9pt2.pdb
+C:\Users\Breon\Documents\Visual Studio 2012\Projects\BreonDayAssignment9pt2\BreonDayAssignment9pt2\bin\Debug\BreonDayAssignment9pt2.xml
+C:\Users\Breon\Documents\Visual Studio 2012\Projects\BreonDayAssignment9pt2\BreonDayAssignment9pt2\obj\Debug\BreonDayAssignment9pt2.Form1.resources
+C:\Users\Breon\Documents\Visual Studio 2012\Projects\BreonDayAssignment9pt2\BreonDayAssignment9pt2\obj\Debug\BreonDayAssignment9pt2.Resources.resources
+C:\Users\Breon\Documents\Visual Studio 2012\Projects\BreonDayAssignment9pt2\BreonDayAssignment9pt2\obj\Debug\BreonDayAssignment9pt2.vbproj.GenerateResource.Cache
+C:\Users\Breon\Documents\Visual Studio 2012\Projects\BreonDayAssignment9pt2\BreonDayAssignment9pt2\obj\Debug\BreonDayAssignment9pt2.exe
+C:\Users\Breon\Documents\Visual Studio 2012\Projects\BreonDayAssignment9pt2\BreonDayAssignment9pt2\obj\Debug\BreonDayAssignment9pt2.xml
+C:\Users\Breon\Documents\Visual Studio 2012\Projects\BreonDayAssignment9pt2\BreonDayAssignment9pt2\obj\Debug\BreonDayAssignment9pt2.pdb
