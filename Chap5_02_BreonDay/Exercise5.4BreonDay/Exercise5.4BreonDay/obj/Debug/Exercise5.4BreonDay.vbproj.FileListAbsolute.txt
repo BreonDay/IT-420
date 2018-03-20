@@ -1,0 +1,10 @@
+c:\users\breon\documents\visual studio 2012\Projects\Exercise5.4BreonDay\Exercise5.4BreonDay\bin\Debug\Exercise5.4BreonDay.exe.config
+c:\users\breon\documents\visual studio 2012\Projects\Exercise5.4BreonDay\Exercise5.4BreonDay\bin\Debug\Exercise5.4BreonDay.exe
+c:\users\breon\documents\visual studio 2012\Projects\Exercise5.4BreonDay\Exercise5.4BreonDay\bin\Debug\Exercise5.4BreonDay.pdb
+c:\users\breon\documents\visual studio 2012\Projects\Exercise5.4BreonDay\Exercise5.4BreonDay\bin\Debug\Exercise5.4BreonDay.xml
+c:\users\breon\documents\visual studio 2012\Projects\Exercise5.4BreonDay\Exercise5.4BreonDay\obj\Debug\Exercise5._4BreonDay.Resources.resources
+c:\users\breon\documents\visual studio 2012\Projects\Exercise5.4BreonDay\Exercise5.4BreonDay\obj\Debug\Exercise5.4BreonDay.vbproj.GenerateResource.Cache
+c:\users\breon\documents\visual studio 2012\Projects\Exercise5.4BreonDay\Exercise5.4BreonDay\obj\Debug\Exercise5.4BreonDay.exe
+c:\users\breon\documents\visual studio 2012\Projects\Exercise5.4BreonDay\Exercise5.4BreonDay\obj\Debug\Exercise5.4BreonDay.xml
+c:\users\breon\documents\visual studio 2012\Projects\Exercise5.4BreonDay\Exercise5.4BreonDay\obj\Debug\Exercise5.4BreonDay.pdb
+c:\users\breon\documents\visual studio 2012\Projects\Exercise5.4BreonDay\Exercise5.4BreonDay\obj\Debug\Exercise5._4BreonDay.Exercise54.resources
